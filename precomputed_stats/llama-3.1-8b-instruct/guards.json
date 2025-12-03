@@ -1,0 +1,62 @@
+{
+    "content_controls": {
+        "AUC": 0.6860899653979238,
+        "layer": 32,
+        "threshold": 3.180223146986779
+    },
+    "product_halucination": {
+        "AUC": 0.884152249134948,
+        "layer": 15,
+        "threshold": 4.179846429648775
+    },
+    "user_experience": {
+        "AUC": 0.5907266435986158,
+        "layer": 30,
+        "threshold": 4.245256006437195
+    },
+    "brand_reputation": {
+        "AUC": 0.8074740484429066,
+        "layer": 30,
+        "threshold": 4.02921284598523
+    },
+    "tool_use": {
+        "AUC": 0.6992387543252595,
+        "layer": 30,
+        "threshold": 4.514111335464639
+    },
+    "regulations": {
+        "AUC": 0.7105882352941176,
+        "layer": 28,
+        "threshold": 4.210637726735769
+    },
+    "information_leakage": {
+        "AUC": 0.8694809688581314,
+        "layer": 8,
+        "threshold": 4.411450793685455
+    },
+    "hipaa": {
+        "AUC": 0.692318339100346,
+        "layer": 32,
+        "threshold": 4.4265529790526985
+    },
+    "agentic_tasks": {
+        "AUC": 0.9982006920415225,
+        "layer": 32,
+        "threshold": 6.968680462849421
+    },
+    "age_appropriate": {
+        "AUC": 0.6422145328719723,
+        "layer": 29,
+        "threshold": 3.534231349985998
+    },
+    "transactions": {
+        "AUC": 0.9833910034602076,
+        "layer": 25,
+        "threshold": 5.057343090525454
+    },
+    "non_player_characters": {
+        "AUC": 0.9321799307958477,
+        "layer": 4,
+        "threshold": 3.7663843284616143
+    }
+}

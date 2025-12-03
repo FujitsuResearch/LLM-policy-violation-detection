@@ -1,0 +1,10 @@
+# NOTE:
+# PyTorch is NOT included here
+# Please install PyTorch manually from: https://pytorch.org/get-started/locally/
+
+numpy>=2.0
+scikit-learn>=1.5
+transformers>=4.55
+datasets>=4.0
+tqdm
+
